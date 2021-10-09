@@ -1,5 +1,6 @@
 opencv-python-headless
 streamlit
+tensorflow
 numpy
 cvlib
 scipy
